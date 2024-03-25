@@ -1,0 +1,37 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "nama": "Kue Kering Coklat Chip",
+        "harga": 15000,
+        "deskripsi": "Kue kering dengan campuran coklat chip yang lezat.",
+        "gambar": "assets/img/Nastar Kotak.jpg",
+        "kategori": "Kue Coklat"
+      },
+      {
+        "id": 2,
+        "nama": "Kue Kering Sagu Keju",
+        "harga": 18000,
+        "deskripsi": "Kue kering dengan cita rasa keju yang gurih.",
+        "gambar": "assets/img/Nastar Kotak.jpg",
+        "kategori": "Kue Keju"
+      },
+      {
+        "id": 3,
+        "nama": "Kue Kering Kacang Mede",
+        "harga": 20000,
+        "deskripsi": "Kue kering dengan topping kacang mede yang renyah.",
+        "gambar": "assets/img/Nastar Kotak.jpg",
+        "kategori": "Kue Kacang"
+      },
+      {
+        "id": 4,
+        "nama": "Kue Kering Susu",
+        "harga": 16000,
+        "deskripsi": "Kue kering dengan aroma susu yang lembut.",
+        "gambar": "assets/img/Nastar Kotak.jpg",
+        "kategori": "Kue Susu"
+      }
+    ]
+  }
+  
