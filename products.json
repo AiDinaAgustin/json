@@ -2,36 +2,191 @@
     "products": [
       {
         "id": 1,
-        "nama": "Kue Kering Coklat Chip",
-        "harga": 15000,
-        "deskripsi": "Kue kering dengan campuran coklat chip yang lezat.",
-        "gambar": "assets/img/Nastar Kotak.jpg",
+        "nama": "Kue Kering Coklat Chip Bulat 500ml",
+        "harga": 50000,
+        "deskripsi": "**Renyah, Manis, dan Penuh Coklat!**\n\nNikmati kelezatan **Kue Kering Coklat Chip Bulat 500ml** yang renyah di luar dan lembut di dalam. Dibuat dengan bahan-bahan pilihan dan penuh dengan potongan cokelat chip yang lezat.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan lezat\n* Penuh dengan potongan cokelat chip\n* Terbuat dari bahan-bahan pilihan\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 500ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kue kering di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan kue kering di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Kue Kering Coklat Chip Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Chocochip Bulat.jpg",
+        "kategori": "Kue Coklat"
+      },      
+      {
+        "id": 2,
+        "nama": "Kue Kering Coklat Chip Bulat 250ml",
+        "harga": 27000,
+        "deskripsi": "**Renyah, Manis, dan Penuh Coklat!**\n\nNikmati kelezatan **Kue Kering Coklat Chip Bulat 500ml** yang renyah di luar dan lembut di dalam. Dibuat dengan bahan-bahan pilihan dan penuh dengan potongan cokelat chip yang lezat.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan lezat\n* Penuh dengan potongan cokelat chip\n* Terbuat dari bahan-bahan pilihan\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kue kering di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan kue kering di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Kue Kering Coklat Chip Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Chocochip Bulat.jpg",
         "kategori": "Kue Coklat"
       },
       {
-        "id": 2,
-        "nama": "Kue Kering Sagu Keju",
-        "harga": 18000,
-        "deskripsi": "Kue kering dengan cita rasa keju yang gurih.",
-        "gambar": "assets/img/Nastar Kotak.jpg",
-        "kategori": "Kue Keju"
-      },
-      {
         "id": 3,
-        "nama": "Kue Kering Kacang Mede",
-        "harga": 20000,
-        "deskripsi": "Kue kering dengan topping kacang mede yang renyah.",
-        "gambar": "assets/img/Nastar Kotak.jpg",
-        "kategori": "Kue Kacang"
+        "nama": "Kue Kering Coklat Chip Kotak 350ml",
+        "harga": 40000,
+        "deskripsi": "**Renyah, Manis, dan Penuh Coklat!**\n\nNikmati kelezatan **Kue Kering Coklat Chip Kotak 350ml** yang renyah di luar dan lembut di dalam. Dibuat dengan bahan-bahan pilihan dan penuh dengan potongan cokelat chip yang lezat.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan lezat\n* Penuh dengan potongan cokelat chip\n* Terbuat dari bahan-bahan pilihan\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 350ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kue kering di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan kue kering di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Kue Kering Coklat Chip Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Chocochip Kotak.jpg",
+        "kategori": "Kue Coklat"
       },
       {
         "id": 4,
-        "nama": "Kue Kering Susu",
-        "harga": 16000,
-        "deskripsi": "Kue kering dengan aroma susu yang lembut.",
+        "nama": "Kue Kering Coklat Chip Tabung 250ml",
+        "harga": 40000,
+        "deskripsi": "**Renyah, Manis, dan Penuh Coklat!**\n\nNikmati kelezatan **Kue Kering Coklat Chip Tabung 250ml** yang renyah di luar dan lembut di dalam. Dibuat dengan bahan-bahan pilihan dan penuh dengan potongan cokelat chip yang lezat.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan lezat\n* Penuh dengan potongan cokelat chip\n* Terbuat dari bahan-bahan pilihan\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kue kering di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan kue kering di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Kue Kering Coklat Chip Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Chocochip Kotak.jpg",
+        "kategori": "Kue Coklat"
+      },
+      {
+        "id": 5,
+        "nama": "Nastar Bulat 500ml",
+        "harga": 55000,
+        "deskripsi": "**Lumer di Mulut, Penuh Selai Nanas!**\n\nNikmati kelezatan **Nastar Bulat 500ml** yang lumer di mulut dengan isian selai nanas yang manis dan asam yang menggoda. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan nastar yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Lumer di mulut\n* Penuh dengan selai nanas yang lezat\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 500ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan nastar di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan nastar di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Nastar Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Foto Produk Nastar Bulat.jpg",
+        "kategori": "Kue Kering"
+      },
+      {
+        "id": 6,
+        "nama": "Nastar Bulat 250ml",
+        "harga": 30000,
+        "deskripsi": "**Lumer di Mulut, Penuh Selai Nanas!**\n\nNikmati kelezatan **Nastar Bulat 250ml** yang lumer di mulut dengan isian selai nanas yang manis dan asam yang menggoda. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan nastar yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Lumer di mulut\n* Penuh dengan selai nanas yang lezat\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan nastar di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan nastar di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Nastar Bulat 250ml sekarang!**",
+        "gambar": "assets/img/Foto Produk Nastar Bulat.jpg",
+        "kategori": "Kue Nastar"
+      },
+      {
+        "id": 7,
+        "nama": "Nastar Kotak 350ml",
+        "harga": 40000,
+        "deskripsi": "**Renyah di Luar, Lembut di Dalam, Penuh Selai Nanas!**\n\nNikmati kelezatan **Nastar Kotak 350ml** yang renyah di luar dan lembut di dalam dengan isian selai nanas yang manis dan asam yang menggoda. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan nastar yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah di luar dan lembut di dalam\n* Penuh dengan selai nanas yang lezat\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 350ml\n* Kemasan: Toples plastik kotak\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan nastar di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan nastar di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Nastar Kotak 350ml sekarang!**",
         "gambar": "assets/img/Nastar Kotak.jpg",
-        "kategori": "Kue Susu"
+        "kategori": "Kue Nastar"
+      },
+      {
+        "id": 8,
+        "nama": "Nastar Tabung 250ml",
+        "harga": 40000,
+        "deskripsi": "**Renyah dan Lumer di Mulut, Penuh Selai Nanas!**\n\nNikmati kelezatan **Nastar Tabung 250ml** yang renyah dan lumer di mulut dengan isian selai nanas yang manis dan asam yang menggoda. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan nastar yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan lumer di mulut\n* Penuh dengan selai nanas yang lezat\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik tabung\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan nastar di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan nastar di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Nastar Tabung 250ml sekarang!**",
+        "gambar": "assets/img/Nastar Tabung.jpg",
+        "kategori": "Kue Nastar"
+      },
+      {
+        "id": 9,
+        "nama": "Kue Putri Salju Bulat 500ml",
+        "harga": 50000,
+        "deskripsi": "**Lembut Lumer di Mulut, Manisnya Pas!**\n\nNikmati kelezatan **Kue Putri Salju Bulat 500ml** yang lumer di mulut dengan balutan gula halus yang manis dan beraroma. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kue putri salju yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Lembut dan lumer di mulut\n* Dibalut gula halus yang manis dan beraroma\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Bentuk bulat yang unik dan menarik\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 500ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kue putri salju di tempat yang kering dan kedap udara agar tetap renyah.\n* Sajikan kue putri salju dengan teh hangat atau kopi untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Kue Putri Salju Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Foto Produk Putri Salju Bulat.jpg",
+        "kategori": "Kue Salju"
+      },
+      {
+        "id": 10,
+        "nama": "Kue Putri Salju Bulat 250ml",
+        "harga": 27000,
+        "deskripsi": "**Lembut Lumer di Mulut, Manisnya Pas!**\n\nNikmati kelezatan **Kue Putri Salju Bulat 250ml** yang lumer di mulut dengan balutan gula halus yang manis dan beraroma. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kue putri salju yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Lembut dan lumer di mulut\n* Dibalut gula halus yang manis dan beraroma\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Bentuk bulat yang unik dan menarik\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kue putri salju di tempat yang kering dan kedap udara agar tetap renyah.\n* Sajikan kue putri salju dengan teh hangat atau kopi untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Kue Putri Salju Bulat 250ml sekarang!**",
+        "gambar": "assets/img/Foto Produk Putri Salju Bulat.jpg",
+        "kategori": "Kue Salju"
+      },
+      {
+        "id": 11,
+        "nama": "Putri Salju Tabung 250ml",
+        "harga": 37000,
+        "deskripsi": "**Renyah dan Lumer di Mulut, Penuh Selai Nanas!**\n\nNikmati kelezatan **Putri Salju Tabung 250ml** yang renyah dan lumer di mulut dengan isian selai nanas yang manis dan asam yang menggoda. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan putri salju yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan lumer di mulut\n* Penuh dengan selai nanas yang lezat\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik tabung\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan putri salju di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan putri salju di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Putri Salju Tabung 250ml sekarang!**",
+        "gambar": "assets/img/Putri Salju Tabung.jpg",
+        "kategori": "Kue Salju"
+      },
+      {
+        "id": 12,
+        "nama": "Kue Kastengel Bulat 500ml",
+        "harga": 65000,
+        "deskripsi": "**Renyah Gurih, Lumer di Mulut!**\n\nNikmati kelezatan **Kue Kastengel Bulat 500ml** yang renyah gurih dan lumer di mulut. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kastengel yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan gurih\n* Lumer di mulut\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Bentuk bulat yang unik dan menarik\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 500ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Kastengel di tempat yang kering dan kedap udara agar tetap renyah.\n* Sajikan Kastengel dengan teh hangat atau kopi untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Kue Kastengel Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Kastengel Bulat.jpg",
+        "kategori": "Kue Kastengel"
+      },
+      {
+        "id": 13,
+        "nama": "Kue Kastengel Bulat 250ml",
+        "harga": 35000,
+        "deskripsi": "**Renyah Gurih, Lumer di Mulut!**\n\nNikmati kelezatan **Kue Kastengel Bulat 250ml** yang renyah gurih dan lumer di mulut. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kastengel yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan gurih\n* Lumer di mulut\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Bentuk bulat yang unik dan menarik\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Kastengel di tempat yang kering dan kedap udara agar tetap renyah.\n* Sajikan Kastengel dengan teh hangat atau kopi untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Kue Kastengel Bulat 250ml sekarang!**",
+        "gambar": "assets/img/Kastengel Bulat.jpg",
+        "kategori": "Kue Kastengel"
+      },
+      {
+        "id": 14,
+        "nama": "Kastengel Kotak 350ml",
+        "harga": 57000,
+        "deskripsi": "**Renyah Gurih, Penuh Cita Rasa!**\n\nNikmati kelezatan **Kastengel Kotak 350ml** yang renyah gurih dan penuh cita rasa. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kastengel yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan gurih\n* Penuh dengan rasa keju yang khas\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Bentuk kotak yang klasik dan elegan\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 350ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kastengel di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan kastengel di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Kastengel Kotak 350ml sekarang!**",
+        "gambar": "assets/img/Kastengel Kotak.jpg",
+        "kategori": "Kue Kastengel"
+      },
+      {
+        "id": 15,
+        "nama": "Kastengel Tabung 250ml",
+        "harga": 45000,
+        "deskripsi": "**Renyah Gurih, Penuh Cita Rasa!**\n\nNikmati kelezatan **Kastengel Tabung 250ml** yang renyah gurih dan penuh cita rasa. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kastengel yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Renyah dan gurih\n* Penuh dengan rasa keju yang khas\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Kemasan tabung yang praktis dan mudah dibawa\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik tabung\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan kastengel di tempat yang kering dan kedap udara agar tetap renyah.\n* Hangatkan kastengel di oven selama beberapa menit sebelum disajikan agar lebih nikmat.\n\n**Ayo, order Kastengel Tabung 250ml sekarang!**",
+        "gambar": "assets/img/Kastengel Tabung.jpg",
+        "kategori": "Kue Kastengel"
+      },
+      {
+        "id": 16,
+        "nama": "Lidah Kucing Kotak 350ml",
+        "harga": 40000,
+        "deskripsi": "**Lembut Lumer di Mulut, Manisnya Pas!**\n\nNikmati kelezatan **Lidah Kucing Kotak 350ml** yang lumer di mulut dengan balutan gula halus yang manis dan beraroma. Dibuat dengan resep tradisional dan bahan-bahan pilihan, menghasilkan kue lidah kucing yang lezat dan berkualitas.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n\n**Keunggulan:**\n\n* Lembut dan lumer di mulut\n* Dibalut gula halus yang manis dan beraroma\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n* Bentuk kotak yang klasik dan elegan\n* Cocok untuk berbagai acara\n\n**Informasi tambahan:**\n\n* Berat: 350ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan lidah kucing di tempat yang kering dan kedap udara agar tetap renyah.\n* Sajikan lidah kucing dengan teh hangat atau kopi untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Lidah Kucing Kotak 350ml sekarang!**",
+        "gambar": "assets/img/Lidah Kucing Kotak.jpg",
+        "kategori": "Kue Kering"
+      },
+      {
+        "id": 17,
+        "nama": "Sprinkle Choco Bulat 500ml",
+        "harga": 50000,
+        "deskripsi": "**Manisnya Cokelat, Bikin Ketagihan!**\n\nNikmati sensasi cokelat yang begitu nikmat dengan **Sprinkle Choco Bulat 500ml**. Kue kering dengan rasa cokelat yang濃厚 (noukou - pekat) dan taburan meses warna-warni yang ceria. Dibuat dengan bahan-bahan berkualitas dan resep khas, menghasilkan kue yang renyah, gurih, dan tentunya bikin nagih!\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Teman saat bersantai\n\n**Keunggulan:**\n\n* Rasa cokelat yang濃厚 (noukou - pekat) dan nikmat\n* Taburan meses warna-warni yang ceria dan menggugah selera\n* Renyah dan gurih\n* Terbuat dari bahan-bahan berkualitas\n* Dibuat dengan resep khas\n\n**Informasi tambahan:**\n\n* Berat: 500ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Sprinkle Choco di tempat yang kering dan kedap udara agar tetap renyah.\n* Nikmati Sprinkle Choco dengan segelas susu dingin untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Sprinkle Choco Bulat 500ml sekarang!**",
+        "gambar": "assets/img/Sprinkle Bulat.jpg",
+        "kategori": "Kue Sprinkle"
+      },
+      {
+        "id": 18,
+        "nama": "Sprinkle Choco Bulat 250ml",
+        "harga": 27000,
+        "deskripsi": "**Renyah dan Ceria, Manisnya Pas!**\n\nNikmati **Sprinkle Bulat 250ml**, kue kering renyah dengan taburan meses warna-warni yang ceria. Rasa manisnya yang pas menjadikan Sprinkle Bulat camilan favorit keluarga.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Teman saat bersantai\n\n**Keunggulan:**\n\n* Renyah dan gurih\n* Taburan meses warna-warni yang ceria dan menggugah selera\n* Rasa manis yang pas\n* Terbuat dari bahan-bahan pilihan\n* Dibuat dengan resep tradisional\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Toples plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Sprinkle Bulat di tempat yang kering dan kedap udara agar tetap renyah.\n* Nikmati Sprinkle Bulat dengan segelas susu dingin untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Sprinkle Bulat 250ml sekarang!**",
+        "gambar": "assets/img/Sprinkle Bulat.jpg",
+        "kategori": "Kue Sprinkle"
+      },
+      {
+        "id": 19,
+        "nama": "Sprinkle Choco Kotak 350ml",
+        "harga": 40000,
+        "deskripsi": "**Manisnya Cokelat yang Mewah, Bikin Ketagihan!**\n\nNikmati sensasi cokelat yang begitu nikmat dengan **Sprinkle Choco Kotak 350ml**. Kue kering dengan rasa cokelat yang **濃厚 (noukou - pekat)** dan taburan meses warna-warni yang ceria, dikemas dalam wadah kotak yang cantik dan elegan. Cocok untuk dinikmati sendiri maupun dijadikan hantaran untuk orang tersayang.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Teman saat bersantai\n\n**Keunggulan:**\n\n* Rasa cokelat yang **濃厚 (noukou - pekat)** dan nikmat\n* Taburan meses warna-warni yang ceria dan menggugah selera\n* Renyah dan gurih\n* Terbuat dari bahan-bahan berkualitas\n* Dibuat dengan resep khas\n* Kemasan kotak yang cantik dan elegan\n\n**Informasi tambahan:**\n\n* Berat: 350ml\n* Kemasan: Toples plastik Kotak\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Sprinkle Choco di tempat yang kering dan kedap udara agar tetap renyah.\n* Nikmati Sprinkle Choco dengan segelas susu dingin untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Sprinkle Choco Kotak 350ml sekarang!**",
+        "gambar": "assets/img/Sprinkle Kotak.jpg",
+        "kategori": "Kue Sprinkle"
+      },
+      {
+        "id": 20,
+        "nama": "Sprinkle Choco Tabung 250ml",
+        "harga": 40000,
+        "deskripsi": "**Manisnya Cokelat, Praktis Dibawa Kemana Saja!**\n\nNikmati sensasi cokelat yang begitu nikmat dengan **Sprinkle Choco Tabung 250ml**. Kue kering dengan rasa cokelat yang **濃厚 (noukou - pekat)** dan taburan meses warna-warni yang ceria, dikemas dalam wadah tabung yang praktis dan mudah dibawa. Cocok untuk camilan saat berpergian atau sebagai teman bersantai.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Teman saat bersantai\n* Camilan saat berpergian\n\n**Keunggulan:**\n\n* Rasa cokelat yang **濃厚 (noukou - pekat)** dan nikmat\n* Taburan meses warna-warni yang ceria dan menggugah selera\n* Renyah dan gurih\n* Terbuat dari bahan-bahan berkualitas\n* Dibuat dengan resep khas\n* Kemasan tabung yang praktis dan mudah dibawa\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Tabung plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Sprinkle Choco di tempat yang kering dan kedap udara agar tetap renyah.\n* Nikmati Sprinkle Choco dengan segelas susu dingin untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Sprinkle Choco Tabung 250ml sekarang!**",
+        "gambar": "assets/img/Sprinkle Tabung.jpg",
+        "kategori": "Kue Sprinkle"
+      },
+      {
+        "id": 21,
+        "nama": "Paket Azka Kemasan Tabung 250ml",
+        "harga": 85000,
+        "deskripsi": "**Manjakan diri dengan Paket Azka yang penuh kelezatan!**\n\nPaket Azka berisi dua toples kue kering favorit, yaitu:\n\n* **Nastar** klasik dengan isian selai nanas yang manis dan legit\n* **Kue kering pilihan** sesuai selera Anda (selain nastar dan kastengel)\n\n**Bebas pilih kue kering favorit Anda!**\n\nAnda dapat memilih satu dari kue kering berikut untuk melengkapi Paket Azka:\n\n* Lidah Kucing\n* Putri Salju\n* Sprinkle Choco\n* Sprinkle Bulat\n* Kue Kacang\n* Kue Semprit\n\n**Paket Azka cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Perayaan hari raya\n\n**Keunggulan Paket Azka:**\n\n* Dua toples kue kering lezat\n* Pilihan kue kering yang beragam\n* Harga yang terjangkau\n* Kemasan yang cantik dan praktis\n\n**Pesan Paket Azka sekarang dan nikmati kelezatannya bersama orang-orang tersayang!**",
+        "gambar": "assets/img/Paket Azka.jpg",
+        "kategori": "Paket"
+      },
+      {
+        "id": 22,
+        "nama": "Paket Nafisah Kemasan Tabung 250ml",
+        "harga": 130000,
+        "deskripsi": "**Manjakan diri dan orang tersayang dengan Paket Nafisah yang istimewa!**\n\nPaket Nafisah berisi tiga toples kue kering favorit, yaitu:\n\n* **Nastar** klasik dengan isian selai nanas yang manis dan legit\n* **Putri Salju** yang lumer di mulut dengan balutan gula halus\n* **Pilihan kue kering**: Chocochip yang renyah dan manis, atau Sprinkle yang ceria dan penuh warna\n\n**Bebas pilih kue kering favorit Anda!**\n\nAnda dapat memilih **satu dari dua** pilihan berikut untuk melengkapi Paket Nafisah:\n\n* **Putri Salju**\n* **Chocochip**\n* **Sprinkle**\n\n**Paket Nafisah cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah istimewa untuk orang tersayang\n* Perayaan hari raya\n\n**Keunggulan Paket Nafisah:**\n\n* Tiga toples kue kering lezat\n* Pilihan kue kering yang beragam\n* Rasa yang premium dan berkualitas\n* Kemasan yang cantik dan elegan\n* Harga yang terjangkau\n\n**Pesan Paket Nafisah sekarang dan ciptakan momen spesial bersama orang-orang tersayang!**",
+        "gambar": "assets/img/Paket Nafisah.jpg",
+        "kategori": "Paket"
+      },
+      {
+        "id": 23,
+        "nama": "Paket Zahir Kemasan Kotak 350ml",
+        "harga": 85000,
+        "deskripsi": "**Manjakan diri dengan Paket Zahir yang penuh kelezatan!**\n\nPaket Zahir berisi dua toples kue kering favorit, yaitu:\n\n* **Nastar** klasik dengan isian selai nanas yang manis dan legit\n* **Kue kering pilihan** sesuai selera Anda (selain nastar dan kastengel)\n\n**Bebas pilih kue kering favorit Anda!**\n\nAnda dapat memilih satu dari kue kering berikut untuk melengkapi Paket Zahir:\n\n* Lidah Kucing\n* Putri Salju\n* Sprinkle Choco\n* Sprinkle Bulat\n* Kue Kacang\n* Kue Semprit\n* Chocochip\n* Kacang Tanah\n\n**Paket Zahir cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Perayaan hari raya\n\n**Keunggulan Paket Zahir:**\n\n* Dua toples kue kering lezat\n* Pilihan kue kering yang beragam\n* Harga yang terjangkau\n* Kemasan yang cantik dan praktis\n\n**Pesan Paket Zahir sekarang dan nikmati kelezatannya bersama orang-orang tersayang!**",
+        "gambar": "assets/img/Paket Zahir-1.jpg",
+        "kategori": "Paket"
       }
+      
+      
+     
     ]
   }
   
