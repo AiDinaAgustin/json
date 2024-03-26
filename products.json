@@ -154,14 +154,6 @@
       },
       {
         "id": 20,
-        "nama": "Sprinkle Choco Tabung 250ml",
-        "harga": 40000,
-        "deskripsi": "**Manisnya Cokelat, Praktis Dibawa Kemana Saja!**\n\nNikmati sensasi cokelat yang begitu nikmat dengan **Sprinkle Choco Tabung 250ml**. Kue kering dengan rasa cokelat yang **濃厚 (noukou - pekat)** dan taburan meses warna-warni yang ceria, dikemas dalam wadah tabung yang praktis dan mudah dibawa. Cocok untuk camilan saat berpergian atau sebagai teman bersantai.\n\n**Cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Teman saat bersantai\n* Camilan saat berpergian\n\n**Keunggulan:**\n\n* Rasa cokelat yang **濃厚 (noukou - pekat)** dan nikmat\n* Taburan meses warna-warni yang ceria dan menggugah selera\n* Renyah dan gurih\n* Terbuat dari bahan-bahan berkualitas\n* Dibuat dengan resep khas\n* Kemasan tabung yang praktis dan mudah dibawa\n\n**Informasi tambahan:**\n\n* Berat: 250ml\n* Kemasan: Tabung plastik\n* Daya tahan: 2 bulan\n\n**Tips:**\n\n* Simpan Sprinkle Choco di tempat yang kering dan kedap udara agar tetap renyah.\n* Nikmati Sprinkle Choco dengan segelas susu dingin untuk pengalaman yang lebih nikmat.\n\n**Ayo, order Sprinkle Choco Tabung 250ml sekarang!**",
-        "gambar": "assets/img/Sprinkle Tabung.jpg",
-        "kategori": "Kue Sprinkle"
-      },
-      {
-        "id": 21,
         "nama": "Paket Azka Kemasan Tabung 250ml",
         "harga": 85000,
         "deskripsi": "**Manjakan diri dengan Paket Azka yang penuh kelezatan!**\n\nPaket Azka berisi dua toples kue kering favorit, yaitu:\n\n* **Nastar** klasik dengan isian selai nanas yang manis dan legit\n* **Kue kering pilihan** sesuai selera Anda (selain nastar dan kastengel)\n\n**Bebas pilih kue kering favorit Anda!**\n\nAnda dapat memilih satu dari kue kering berikut untuk melengkapi Paket Azka:\n\n* Lidah Kucing\n* Putri Salju\n* Sprinkle Choco\n* Sprinkle Bulat\n* Kue Kacang\n* Kue Semprit\n\n**Paket Azka cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Perayaan hari raya\n\n**Keunggulan Paket Azka:**\n\n* Dua toples kue kering lezat\n* Pilihan kue kering yang beragam\n* Harga yang terjangkau\n* Kemasan yang cantik dan praktis\n\n**Pesan Paket Azka sekarang dan nikmati kelezatannya bersama orang-orang tersayang!**",
@@ -169,7 +161,7 @@
         "kategori": "Paket"
       },
       {
-        "id": 22,
+        "id": 21,
         "nama": "Paket Nafisah Kemasan Tabung 250ml",
         "harga": 130000,
         "deskripsi": "**Manjakan diri dan orang tersayang dengan Paket Nafisah yang istimewa!**\n\nPaket Nafisah berisi tiga toples kue kering favorit, yaitu:\n\n* **Nastar** klasik dengan isian selai nanas yang manis dan legit\n* **Putri Salju** yang lumer di mulut dengan balutan gula halus\n* **Pilihan kue kering**: Chocochip yang renyah dan manis, atau Sprinkle yang ceria dan penuh warna\n\n**Bebas pilih kue kering favorit Anda!**\n\nAnda dapat memilih **satu dari dua** pilihan berikut untuk melengkapi Paket Nafisah:\n\n* **Putri Salju**\n* **Chocochip**\n* **Sprinkle**\n\n**Paket Nafisah cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah istimewa untuk orang tersayang\n* Perayaan hari raya\n\n**Keunggulan Paket Nafisah:**\n\n* Tiga toples kue kering lezat\n* Pilihan kue kering yang beragam\n* Rasa yang premium dan berkualitas\n* Kemasan yang cantik dan elegan\n* Harga yang terjangkau\n\n**Pesan Paket Nafisah sekarang dan ciptakan momen spesial bersama orang-orang tersayang!**",
@@ -177,7 +169,7 @@
         "kategori": "Paket"
       },
       {
-        "id": 23,
+        "id": 22,
         "nama": "Paket Zahir Kemasan Kotak 350ml",
         "harga": 85000,
         "deskripsi": "**Manjakan diri dengan Paket Zahir yang penuh kelezatan!**\n\nPaket Zahir berisi dua toples kue kering favorit, yaitu:\n\n* **Nastar** klasik dengan isian selai nanas yang manis dan legit\n* **Kue kering pilihan** sesuai selera Anda (selain nastar dan kastengel)\n\n**Bebas pilih kue kering favorit Anda!**\n\nAnda dapat memilih satu dari kue kering berikut untuk melengkapi Paket Zahir:\n\n* Lidah Kucing\n* Putri Salju\n* Sprinkle Choco\n* Sprinkle Bulat\n* Kue Kacang\n* Kue Semprit\n* Chocochip\n* Kacang Tanah\n\n**Paket Zahir cocok untuk:**\n\n* Camilan keluarga\n* Hidangan saat kumpul bersama\n* Hadiah untuk orang tersayang\n* Perayaan hari raya\n\n**Keunggulan Paket Zahir:**\n\n* Dua toples kue kering lezat\n* Pilihan kue kering yang beragam\n* Harga yang terjangkau\n* Kemasan yang cantik dan praktis\n\n**Pesan Paket Zahir sekarang dan nikmati kelezatannya bersama orang-orang tersayang!**",
